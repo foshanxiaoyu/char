@@ -1,0 +1,2 @@
+# char
+learn char
